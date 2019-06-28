@@ -1,0 +1,6 @@
+id,text,date,keywords,organization,rating
+http://data.gesis.org/claimskg/creative_work/05b716c3-07f5-5da9-b595-ebde5274f475,Says Donald Trump has outlined 'policies that read like a Kremlin wish list.',03/25/2019,"candidate biography,economy,energy,foreign policy,history,human rights,military,trade,transparency",politifact,MIXTURE
+http://data.gesis.org/claimskg/creative_work/c286175b-33a9-571b-8403-0ead249dfb03,"About 750,000 people die in China each year from auto emissions.",03/25/2019,"environment,foreign policy,transportation",politifact,MIXTURE
+http://data.gesis.org/claimskg/creative_work/49238b65-e412-5fac-b03f-2ba46bc9d275,"Every time the price of gasoline rises 1 cent, 'it's a billion dollars out of our economy that goes to Saudi Arabia.'",03/22/2019,"corrections and updates,economy,energy,iraq",politifact,FALSE
+http://data.gesis.org/claimskg/creative_work/e61c91f0-a54f-53ba-b8db-eeb5eb0c3d20,The Arab Spring … 'drove up gas prices.',03/21/2019,"economy,energy,foreign policy",politifact,MIXTURE
+http://data.gesis.org/claimskg/creative_work/b3d69b27-3c54-5d1a-ad8a-da30dae12f31,"'It's important to pay attention to the Russian spy drama, but let's not ignore the fact that the following (10) bills have been introduced' in the House.",03/06/2017,"abortion,education,environment,foreign policy,health care,immigration,workers",politifact,MIXTURE
