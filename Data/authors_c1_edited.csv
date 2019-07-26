@@ -1,0 +1,532 @@
+claimskg_author;type;kata_author
+Ron Johnson;{'opposition'};Sen. Ron Johnson , R-Wis. ,
+Rick Scott;{'opposition'};Florida Gov. Rick Scott ( R )
+Hillary Clinton;{'government', 'candidate_election'};Hillary Clinton
+Barack Obama;{'government','candidate_election'};President Barack Obama
+Donald Trump;{'candidate_election','twitter','economic_or_business'};Republican presidential nominee Donald Trump
+Sierra Club;{'juridical'};Mr. Morgan of the Sierra Club
+Rachel Maddow;{'traditional'};MSNBC 's Rachel Maddow
+Mitt Romney;{'political','opposition'};Stuart Stevens , who was Mitt Romney 's top adviser in 2012
+George Will;{'journalistic'};Conservative columnist and Fox News contributor George Will
+Club for Growth;{'activistic_or_syndicate'};The Club for Growth PAC
+Democratic National Committee;{'government'};Donna Brazile , the interim chairwoman of the Democratic National Committee
+Kirsten Gillibrand;{'government'};Senator Kirsten Gillibrand , Democrat of New York ,
+Chris Christie;{'candidate_election', 'opposition'};New Jersey Gov. Chris Christie
+Rick Perry;{'opposition'};Former Texas Gov. Rick Perry
+John McCain;{'political'};Ron Weiser , who was a national co-chair for Sen. John McCain 's 2008 presidential campaign and is one of the new Trump Victory vice chairs
+Mike Huckabee;{'candidate_election','opposition'};Former Arkansas governor Mike Huckabee
+Bill Nelson;{'political'};Florida Sens. Marco Rubio ( R ) , who is seeking reelection , and Bill Nelson ( D )
+Newt Gingrich;{'candidate_election'};Newt Gingrich , a Trump defender ,
+Republican National Committee;{'government', 'opposition'};The Republican National Committee
+Bernie Sanders;{'government','candidate_election'};Bernie Sanders
+Bill Maher;{'celebrities_or_artistic'};Real Time host Bill Maher
+James O'Neil;{'police'};NYPD Commissioner James O'Neill
+Scott Pruitt;{'juridical'};Scott Pruitt , the Republican attorney general of Oklahoma ,
+Florida Democratic Party;{'political'};Ana Cruz , former head of the Florida Democratic Party and a 43-year-old fourth-generation descendant of Cuban cigar-makers ,
+Donna Brazile;{'government'};Donna Brazile , the interim chairwoman of the Democratic National Committee
+Bobby Jindal;{'opposition'};Louisiana Gov. Bobby Jindal
+Tim Kaine;{'candidate_election'};Democratic candidate Tim Kaine
+Marco Rubio;{'candidate_election','opposition'};Sen. Marco Rubio ( R-Fla . )
+David Plouffe;{'political'};David Plouffe , the architect of Obama 's 2008 campaign and a close aide in 2012
+Rush Limbaugh;{'celebrities_or_artistic'};Radio talk host Rush Limbaugh
+Scott Walker;{'political'};Eric Woolson , who worked for Wisconsin Gov. Scott Walker before he dropped out , and guided Huckabee to victory in 2008
+Bob Corker;{'political'};a small group led by Senate Foreign Relations Committee Chairman Bob Corker ( R-Tenn . )
+Tweets;{'twitter'};early-morning tweets
+Paul Ryan;{'opposition'};House Speaker Paul Ryan
+Americans for Prosperity;{'activistic_or_syndicate'};the Koch-backed advocacy group Americans for Prosperity
+Priorities USA Action;{'activistic_or_syndicate'};Pro-Clinton super PAC Priorities USA Action
+Bobby Scott;{'government'};Bobby Scott
+John Kasich;{'candidate_election'};Ohio Gov. John Kasich
+Bob Goodlatte;{'opposition'};Chaffetz and Rep. Bob Goodlatte ( R-Va . ) ,
+Debbie Wasserman Schultz;{'government'};DNC Chairwoman Debbie Wasserman Schultz
+Sherrod Brown;{'government'};Jeff Merkley ( D-Ore . ) , Sherrod Brown ( D-Ohio ) and Robert Menendez ( D-N.J. )
+Roy Blunt;{'government'};Jason Kander , who is running against Missouri Republican Roy Blunt ,
+Harry Reid;{'government'};Senate Minority Leader Harry Reid ( D-Nev . )
+Jeff Merkley;{'government'};Jeff Merkley ( D-Ore . ) , Sherrod Brown ( D-Ohio ) and Robert Menendez ( D-N.J. )
+Mark Kirk;{'opposition'};Illinois 's Mark Kirk
+Ted Cruz;{'candidate_election','opposition'};Sen. Ted Cruz of Texas
+U.S. Chamber of Commerce;{'activistic_or_syndicate'};Two outside groups aligned with Republicans , the U.S. Chamber of Commerce and the Senate Leadership Fund
+Robert Menendez;{'government'};Jeff Merkley ( D-Ore . ) , Sherrod Brown ( D-Ohio ) and Robert Menendez ( D-N.J. )
+Rand Paul;{'candidate_election','opposition'};Sen. Rand Paul ( R-Ky . )
+Joe Manchin;{'political'};Sens. Robert Menendez ( D-N.J. ) , Joe Manchin III ( D-W . Va. ) and Marco Rubio ( R-Fla . )
+Cato Institute;{'activistic_or_syndicate', 'scientific_or_analystic_expert'};Purple PAC , steered by former Cato Institute president Ed Crane ,
+Mitch McConnell;{'opposition'};Senate Majority Leader Mitch McConnell ( R-Ky . )
+Jeb Bush;{'candidate_election', 'opposition'};Jeb Bush
+Carly Fiorina;{'candidate_election'};former Hewlett-Packard CEO and presidential candidate Carly Fiorina
+Charles Koch;{'activistic_or_syndicate'};the Freedom Partners Action Fund , a super PAC financed by billionaire industrialist Charles Koch and other conservative donors ,
+Terry McAuliffe;{'government'};Virginia Gov. Terry McAuliffe ( D )
+Kevin McCarthy;{'opposition'};House Majority Leader Kevin McCarthy ( R-Calif . )
+Senate Democrats;{'government'};Senate Democrats , including Warren ,
+Jerry Brown;{'government'};Gov. Jerry Brown ( D )
+Environmental Protection Agency;{'juridical'};Mr. Barrett , the lawyer for West Virginia 's environmental protection agency
+David Perdue;{'opposition'};Sen. David Perdue ( R-Ga . )
+Josh Earnest;{'government'};White House press secretary Josh Earnest
+Phyllis Schlafly;{'publicist'};Conservative icon Phyllis Schlafly , who died Monday at the age of 92 ,
+Democratic Congressional Campaign Committee;{'government'};both the senator and the Democratic Congressional Campaign Committee
+Scott Brown;{'opposition'};former Sen. Scott Brown , R-Mass
+Greg Abbott;{'opposition'};Texas Governor Greg Abbott
+John Cornyn;{'opposition'};John Cornyn , the No. 2 in the GOP leadership ,
+Bill Clinton;{'government','candidate_election'};former President Bill Clinton
+Robby Mook;{'candidate_election'};Hillary Clinton 's campaign manager Robby Mook
+Ban Ki-moon;{'activistic_or_syndicate'};Ban Ki-moon , the secretary general of the United Nations ,
+Martin O'Malley;{'candidate_election'};Former Maryland Gov. Martin O'Malley
+John Thune;{'opposition'};South Dakota Sen. John Thune , a member of the Senate leadership ,
+Amy Klobuchar;{'government'};Sen. Amy Klobuchar ( D-Minn . ) , who sponsored the act
+Chris Wallace;{'celebrities_or_artistic','traditional'};Fox 's Chris Wallace
+David Axelrod;{'political', 'scientific_or_analystic_expert'};former Obama adviser David Axelrod
+Glenn Beck;{'celebrities_or_artistic'};Radio talk show host Glenn Beck
+Chuck Grassley;{'opposition'};Judiciary Committee Chairman Chuck Grassley
+Mike Pence;{'candidate_election','opposition'};Mike Pence , his Republican rival ,
+John Barrasso;;
+Brian Schweitzer;;
+Richard August;;
+Stop Gillnetting Now;;
+New Democratic Party;;
+Hank Gilbert;;
+League of Conservation Voters;;
+Michael Morell;;
+Oregon Department of Fish and Wildlife;;
+Will Herring;;
+Bob Stacey;;
+Israel O'Quinn;;
+Barry Hinckley;;
+David Jolly;;
+Ed Gillespie;;
+Bloggers;;
+Vincent Barrella;;
+Rick Santorum;;
+Mike Stenhouse;;
+George Allen;;
+AmeriPAC;;
+Ernest Moniz;;
+Patrick Lynch;;
+Jim Patterson;;
+Joe Scarborough;;
+Alison Lundergan Grimes;;
+Sarah Palin;;
+Chris Sununu;;
+Charlie Crist;;
+Jackie Dingfelder;;
+John Kerry;;
+James Inhofe;;
+Paula Dockery;;
+Jill Stein;;
+Chain email;;
+Ralph Reed;;
+Dennis Kucinich;;
+James Quintero;;
+Dave Aronberg;;
+Ron Shipman;;
+Americans for Prosperity Georgia chapter;;
+Tommy Thompson;;
+Ken Cuccinelli;;
+Steve Goreham;;
+John DePetro;;
+Tim Echols;;
+Fred Clark;;
+Cory Gardner;;
+Marcy Kaptur;;
+Rush Holt;;
+Jeff Bridges;;
+Diane Allen;;
+Tom Kean;;
+Edwin Pacheco;;
+Debbie Jackow;;
+Morgan Griffith;;
+Jim Spencer;;
+Allen West;;
+Dana Perino;;
+Don Zimmerman;;
+Committee to Protect Florida;;
+Environmental Defense Fund Action;;
+Americans for Prosperity: Florida;;
+John Boehner;;
+Farouk Shami;;
+Evan Jenkins;;
+Progress Florida;;
+Eric Hovde;;
+Eric Johnson;;
+Eric Cantor;;
+Robert Hurt;;
+Barry Smitherman;;
+Nancy Pelosi;;
+Nancy Nusbaum;;
+Tom Fanning;;
+Rob Portman;;
+Kirk Watson;;
+Van Jones;;
+PlantsNeedCO2.org;;
+Put Alaska First PAC;;
+Bill White;;
+Lisa Blais;;
+House Natural Resources Committee Republicans;;
+Ron Klein;;
+Laurence Ehrhardt;;
+Freedom PAC;;
+Gwen Graham;;
+Victoria Taft;;
+Danielle Pletka;;
+Jack Hanna;;
+Bob Kincaid;;
+American Petroleum Institute;;
+For Our Future Florida;;
+Sheldon Whitehouse;;
+Athens Banner-Herald;;
+Peggy Noonan;;
+Lenny Curry;;
+Marsha Blackburn;;
+EnergyCitizens.org;;
+Janet Freedman;;
+Tony Evers;;
+Wendy Davis;;
+Michelle Wolf;;
+Al Gore;;
+Michele Bachmann;;
+Bob Seger;;
+Bill Kristol;;
+Chris Coons;;
+Charles Schumer;;
+Abel Collins;;
+Michael Riley;;
+Senate Majority PAC;;
+Jay Inslee;;
+Edward Markey;;
+World Food Program;;
+Dave Weldon;;
+Jeffrey Grybowski;;
+Lamar McKay;;
+National Republican Congressional Committee;;
+Viral image;;
+Katrina vanden Heuvel;;
+Jeff Kottkamp;;
+Jim Sensenbrenner;;
+Richard Paglia;;
+Frederica Wilson;;
+Josh Fox;;
+Rudy Giuliani;;
+Dan Kaufman;;
+Corey Stewart;;
+Florida Conservation Alliance;;
+Jeff Weems;;
+Patrick Morrisey;;
+Jeff Tittel;;
+Tim Canova;;
+Cathie Adams;;
+Al Jazeera America;;
+MoveOn.org;;
+Jerry Patterson;;
+John Cox;;
+Rick Kriseman;;
+Food & Water Watch;;
+Bill Richardson;;
+Sally Bethea;;
+NextGen Climate;;
+Hillsborough Area Regional Transit;;
+Doug Whitsett;;
+Steve LaTourette;;
+Raymond Lesniak;;
+Friends of India Point Park;;
+Occupy Democrats;;
+Defenders of Wildlife Action Fund;;
+Johnny Isakson;;
+Thom Hartmann;;
+Hank Johnson;;
+Michael Burgess;;
+Joe Garcia;;
+Jonathan Boucher;;
+Barry DuVal;;
+Penny Bernard Schaber;;
+Grover Fugate;;
+George Takei;;
+Online petition;;
+Facebook posts;;
+David Cicilline;;
+Kendrick Meek;;
+Stephen Fincher;;
+Earl Blumenauer;;
+Ryan Zinke;;
+Scott Suder;;
+Jim Justice;;
+Organizing for Action;;
+Donna Nesselbush;;
+Americans United for Change;;
+Michael Chippendale;;
+Josh Mandel;;
+Kevin Cramer;;
+Roman McAllen;;
+Democratic Governors Association;;
+Don Gaetz;;
+James Durkan;;
+Andrew Gillum;;
+Sly James;;
+Cynthia Lummis;;
+Texas Campaign for the Environment;;
+Jacky Rosen;;
+Jim Webb;;
+Jim Moran;;
+Mark Pocan;;
+Maurice Ferre;;
+Bob Beckel;;
+Jennette Gayer;;
+Paul Babeu;;
+Anna Kooiman;;
+Matt Flynn;;
+Bob Marshall;;
+Brad Schneider;;
+National Taxpayers Union;;
+Peter DeFazio;;
+Dana Young;;
+Betty Sutton;;
+Jeanne Ives;;
+David Dewhurst;;
+Kelda Helen Roys;;
+Tom DeLay;;
+David McKinley;;
+Mark Begich;;
+Michael J. Gardiner;;
+Michael Reagan;;
+Connie Mack;;
+Joe Barton;;
+Daniel Greenfield;;
+Matt Gaetz;;
+Jon Huntsman;;
+Joe Cunningham;;
+Unite Here Florida PAC;;
+Republican Party of Virginia;;
+Don Beyer;;
+Texans for Reliable Power;;
+Patrick Wales;;
+Jack Reed;;
+Jesse Kremer;;
+Bob Gibbs;;
+Michael Sullivan;;
+Chris Matthews;;
+Kevin Coughlin;;
+Lee Leffingwell;;
+Stacy White;;
+Tim Pawlenty;;
+Russ Feingold;;
+Alex Sink;;
+Herman Cain;;
+Evan Goyke;;
+Vernon Jones;;
+J.D. Alexander;;
+Mike Collins;;
+Mike Polensek;;
+Credo Action;;
+Restore Our Future;;
+Center for Western Priorities;;
+Ward Armstrong;;
+Helio Melo;;
+Kris Jordan;;
+Adam Putnam;;
+Republican Party of Florida;;
+Associated Industries of Florida;;
+James Florio;;
+Matt Wingard;;
+Kevin de León;;
+Bruce Rauner;;
+Next Generation Climate Action Committee;;
+Gus Bilirakis;;
+Scott Surovell;;
+John Boccieri;;
+Salmon for All;;
+Investor's Business Daily;;
+Jersey Central Power & Light;;
+America's Natural Gas Alliance;;
+Deepwater Wind;;
+Campaign to Defend America;;
+Kamala Harris;;
+Heather Beaven;;
+John Eaves;;
+Nicholas Kristof;;
+David Rivera;;
+Roy Barnes;;
+Michael Skindell;;
+Floridians for Solar Choice;;
+Jim Jordan;;
+Duey Stroebel;;
+ClearPath Action Fund;;
+Wayne Smith;;
+Ron Bergeron;;
+Ed Schultz;;
+Pat Robertson;;
+OurLandOfTheFree.com;;
+Brian Schatz;;
+Make Us Great Again;;
+Ohio Oil and Gas Association;;
+Rex Tillerson;;
+Alberta Darling;;
+Charley English;;
+Lamar Alexander;;
+Occupational Knowledge International;;
+Jim Bohl;;
+AmericanNews.com;;
+Oregon Environmental Council-Oregon Business Association;;
+Dennis Jones;;
+Renewable Fuels Association;;
+Louise Slaughter;;
+Scott Bruun;;
+Barney Bishop;;
+Chris Larson;;
+Gloria Romero Roses;;
+Kendall Jones;;
+VoteVets.org;;
+George LeMieux;;
+Mo Brooks;;
+Sacramento Bee Editorial Board;;
+Brad Rockwell;;
+Jamie Samons;;
+Lenar Whitney;;
+Lamar Smith;;
+Elaine Boyer;;
+Sean Duffy;;
+Chris Chocola;;
+Consumers for Smart Solar;;
+Dan Boren;;
+Tammy Baldwin;;
+Sharron Angle;;
+LearnProgress.org;;
+Bonnie Reiss;;
+Christopher Monckton;;
+Gordon Challstrom;;
+Joni Ernst;;
+Solar Energy Fairness;;
+David Porter;;
+Crossroads GPS;;
+Basil Seggos;;
+Orrin Hatch;;
+Freedom Daily;;
+Ron Paul;;
+Forecast the Facts;;
+Mary Landrieu;;
+Kenneth Block;;
+Free Market Florida;;
+Cliff Stearns;;
+Gerry Connolly;;
+Curtis Foltz;;
+Mark Hass;;
+Greg Walden;;
+Patrick Moore;;
+Keith Olbermann;;
+Tim Grendell;;
+Stephen Kretzmann;;
+John Loughlin;;
+Pew Environment Group;;
+James Rockall;;
+Jon Brien;;
+Donna Campbell;;
+Darrell Issa;;
+Lars Larson;;
+American Energy Alliance;;
+Ted Strickland;;
+Steve Lonegan;;
+Tom Perriello;;
+North Carolina Democratic Party;;
+New Jersey Sierra Club;;
+Mike Fasano;;
+Gavin Newsom;;
+Todd Staples;;
+Shelley Moore Capito;;
+Rodney Frelinghuysen;;
+Scott Wagner;;
+Metropolitan North Georgia Water Planning District;;
+Troy Fraser;;
+Mark Daniels;;
+Alan Grayson;;
+Eugene Robinson;;
+Roy Cooper;;
+Steve Troxler;;
+Florida Wildlife Federation;;
+Steve Scalise;;
+Nathan Deal;;
+Environmental Justice League of R.I;;
+Maureen Dowd;;
+Robert Hagan;;
+Bart Stupak;;
+Jim Bridenstine;;
+Frank Lautenberg;;
+Richard Durbin;;
+Bill Johnson;;
+Robert Henneke;;
+Lawrence O'Donnell;;
+Chris Abele;;
+Rick North;;
+Ryan Sitton;;
+Tom Cotton;;
+Austin Scott;;
+James Carville;;
+Fred Upton;;
+Drew Springer;;
+Michael Williams;;
+Mike Dovilla;;
+Miami-Dade County;;
+Rob Cornilles;;
+Steve Doocy;;
+Richard Franklin III;;
+Jeff Greene;;
+Pat Stevens;;
+Minka Kelly;;
+James Langevin;;
+Duane Hall;;
+American Crossroads;;
+Anonymous GOP critics;;
+Environment New Jersey;;
+Tom Graves;;
+Miro Weinberger;;
+Catherine McKenna;;
+Clean Virginia;;
+Gérard Deltell;;
+Alexander Strenger;;
+Jagmeet Singh;;
+Andrew Scheer;;
+Tom Wolf;;
+Kim Rudd;;
+Billy Richardson;;
+Marco Rubio's heckler;;
+Derrick Crowe;;
+Greg Gutfeld;;
+Social Media;;
+Betsy DeVos;;
+Elizabeth May;;
+No on 67;;
+Zephyr Teachout;;
+Pat Toomey;;
+Justin Trudeau;;
+State Farm Insurance;;
+Michael McCaul;;
+Tom Mulcair;;
+Mike Huebsch;;
+Karina Wood;;
+Stephen Harper;;
+Russ Girling;;
+Mark Warner;;
+Seneca Jones;;
+Chris Murphy;;
+Roger Williams;;
+Wisconsin Manufacturers and Commerce;;
+Wayne Powell;;
+Ron Ramsey;;
+Jack Kingston;;
+Amanda Fritz;;
+Mary Nolan;;
+Wisconsin Sierra Club;;
+Jeff Kruse;;
+Kathie Tovo;;
+Rick Hardcastle;;
+Chris Dorworth;;
+John Buss;;
+David Prosser;;
+Ohio Coal Association;;
+General Beauregard Lee;;
+Jamie Radtke;;
+DeKalb County;;
+George Packer;;
+Carol Browner;;
+Georgia politicians;;
+Rahm Emanuel;;
+Scott Maddox;;
+Bob McDonnell;;
+Mary Matalin;;
+Kimberly Guilfoyle;;
+House Republican Conference;;
