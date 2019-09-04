@@ -1,6 +1,6 @@
 # topic-features
 
-This project contains different python scripts and notebooks for the tasks of fake news classification.
+This project contains different python scripts and notebooks for the tasks of fake news detection.
 
 ## Data
 The data used comes from the ClaimsKG dataset, for space reasons the data is not stored here, a full dump can be downloaded from https://zenodo.org/record/2628745#.XW9x3i4za70
